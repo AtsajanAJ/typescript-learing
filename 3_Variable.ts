@@ -35,3 +35,5 @@ console.log(`Weight = ${w} Height = ${h} BMI : ${bmi}`);
 const Celcius = 40
 const Farenheit = (Celcius * 9/5) + 32
 console.log((`From ${Celcius} Celcius to ${Farenheit} Farenheit`));
+
+// Q3 some calculator
