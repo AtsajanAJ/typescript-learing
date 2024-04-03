@@ -17,4 +17,6 @@ this repo is for learing typeScript.
 7. git branch (create branch)
 8. git branch -M namebranch (*M move to branch)
 9. git switch branch 
-10. 
+10. array []
+11. object {}
+12. key Ctrl + D , Shift + alt + arrow up, down
