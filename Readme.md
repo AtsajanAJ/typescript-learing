@@ -20,3 +20,5 @@ this repo is for learing typeScript.
 10. array []
 11. object {}
 12. key Ctrl + D , Shift + alt + arrow up, down
+13. git Fork copy project from .... and pull request
+14. git pull origin main (for update the version of commit)
